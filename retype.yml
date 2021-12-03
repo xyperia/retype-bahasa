@@ -1,0 +1,41 @@
+input: ./
+output: .retype
+url: https://septianparapak.space/yugabyte-platform/
+
+branding:
+  logo: /static/retype-logo.svg
+  logoDark: /static/retype-logo-dark.svg
+  label: Docs
+
+meta:
+  title: " | Yugabyte Platform"
+
+edit:
+  repo: github.com/xyperia/yugabyte-platform
+
+links:
+  - text: Home
+    link: /README.md
+    icon: home
+
+  - text: Other Docs
+    link: https://github.com/xyperia/
+    icon: issue-opened
+    target: blank
+
+  - text: GitHub
+    link: https://github.com/xyperia/
+    icon: mark-github
+    target: blank
+
+footer:
+  copyright: © Copyright {{ year }}. [XYPERIA](https://septianparapak.space/) All rights reserved.
+  links:
+    - text: About
+      link: about.md
+
+integrations:
+  crisp:
+    id: 9ec0e13c-1299-4c3f-a5e9-ff39363c6960
+  googleAnalytics:
+    id: G-HLTYMRVPG4

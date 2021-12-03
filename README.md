@@ -11,5 +11,3 @@ Sistem dokumentasi menggunakan open source project dari [Retype](https://retype.
 Pembuatan dokumentasi hanya membutuhkan file markdown(.md) tanpa butuhnya koding.
 
 Pembuatan dokumentasi Retype juga dapat dilakukan tanpa menginstal Retype, namun simulasi tidak dapat dilakukan.
-
----

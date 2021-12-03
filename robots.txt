@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://septianparapak.space/yugabyte-platform/sitemap.xml.gz
+Sitemap: https://septianparapak.space/retype-bahasa/sitemap.xml.gz

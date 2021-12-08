@@ -8,7 +8,7 @@ branding:
   label: Docs
 
 meta:
-  title: " | Yugabyte Platform"
+  title: " | Demo"
 
 edit:
   repo: github.com/xyperia/yugabyte-platform
